@@ -8064,6 +8064,10 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
   color: #6c757d !important;
 }
+.text-muted1 {
+  --bs-text-opacity: 1;
+  color: #fff !important;
+}
 
 .text-black-50 {
   --bs-text-opacity: 1;
